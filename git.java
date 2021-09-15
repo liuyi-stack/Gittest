@@ -7,5 +7,7 @@ public class git {
         System.out.println("hello hub");
         System.out.println("更换");
         System.out.println("push");
+        System.out.println("pull");
+        
     }
 }
